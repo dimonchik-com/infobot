@@ -1,6 +1,7 @@
 # InfoBot for telegram
 The bot which shows current weather, exchange, fuel price in Cherkassy by request and schedule.
- 
+
+```
 USD, buy: 25.40
          sale: 25.70
 BTC, buy: 3980.08
@@ -28,3 +29,4 @@ windSpeed: 5.31
 summary: Mostly Cloudy
 temperature: 13.83 C
 windSpeed: 5.43
+```
