@@ -29,4 +29,5 @@ windSpeed: 5.31
 summary: Mostly Cloudy
 temperature: 13.83 C
 windSpeed: 5.43
+...
 ```
